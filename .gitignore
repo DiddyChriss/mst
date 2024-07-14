@@ -1,0 +1,9 @@
+../.env
+.idea
+.pytest_cache
+*.py[cod]
+*.*~
+*.pem
+*.crt
+*.key
+*.req
